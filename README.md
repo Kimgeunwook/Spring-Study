@@ -222,7 +222,7 @@
 
 
 <details markdown="1">
-<summary>day6: 2021-03-13(토)</summary>
+<summary>day6: 2021-01-16(토)</summary>
 <ul>
     <li>진행 사항</><br>
     1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2-DAY-6">자세히</a>)
