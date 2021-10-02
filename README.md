@@ -155,18 +155,11 @@
 <summary>day1: 2020-11-28(토)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2---Day-1-(2020.11.28)">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2---DAY-1">자세히</a>)
     <blockquote>
         깨끗한 코드 (클린 코드 1장) / 스프링 부트 <br>
         1. 깨끗한 코드<br>
-        2. Spring vs Spring boot<br>
     </blockquote>
-    </li>
-    <li>숙제</>
-       <blockquote>
-        클린 코드 2장
-        빵 예약 앱 DB 설계
-      </blockquote>
     </li>
 </ul>
 </details>
@@ -176,18 +169,11 @@
 <summary>day2: 2020-12-05(토)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2---Day-2-(2020.12.05)">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2---DAY-2">자세히</a>)
     <blockquote>
         의미있는 이름 (클린 코드 2장) / DB 구성 <br>
         1. 의미있는 이름<br>
-        2. 빵 예약 서비스 DB 구성<br>
     </blockquote>
-    </li>
-    <li>숙제</>
-       <blockquote>
-        클린 코드 3장
-        API 명세서 작성(간단하게)
-      </blockquote>
     </li>
 </ul>
 </details>
@@ -196,19 +182,11 @@
 <summary>day3: 2020-12-12(토)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-3-(2020.12.12)">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2---DAY-3">자세히</a>)
     <blockquote>
         함수 (클린 코드 3장) / API 명세서 작성 <br>
         1. 함수<br>
-        2. API 명세서 작성<br>
     </blockquote>
-    </li>
-    <li>숙제</>
-       <blockquote>
-        클린 코드 4장
-        회원가입(seller, customers) 모듈 개발 방법에 대해 고민해보기
-          ex.폴더구조, interface,imple 등등
-      </blockquote>
     </li>
 </ul>
 </details>
@@ -217,19 +195,12 @@
 <summary>day4: 2020-12-26(토)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-4-(2020.12.26)">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2---DAY-4">자세히</a>)
     <blockquote>
         주석 (클린 코드 4장) / 프로젝트 구조 / 회원가입 모듈 <br>
         1. 주석<br>
         2. 프로젝트 구조<br>
-        3. 회원가입 모듈<br>
     </blockquote>
-    </li>
-    <li>숙제</>
-       <blockquote>
-        클린 코드 5장
-        Spring Security 공부해오기 및 랜덤 발표
-      </blockquote>
     </li>
 </ul>
 </details>
@@ -238,95 +209,27 @@
 <summary>day5: 2021-01-09(토)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-5-(2021.-01.-09)">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2---DAY-5">자세히</a>)
     <blockquote>
         형식 맞추기 (클린 코드 5장) / 팀 형식 맞추기 / Spring Security <br>
         1. 형식 맞추기(클린 코드 5장)<br>
         2. 백발자 팀 형식 맞추기<br>
-        3. Spring Security<br>
     </blockquote>
     </li>
-    <li>숙제</>
-       <blockquote>
-        클린 코드 6장
-        Spring Security 예제 따라해보기
-      </blockquote>
-    </li>
+    
 </ul>
 </details>
 
-<details markdown="1">
-<summary>day6: 2021-02-06(토)</summary>
-<ul>
-    <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-6-(2021.-02.-06)">자세히</a>)
-    <blockquote>
-        DDD패턴 <br>
-        1. DDD패턴으로 USER 부분 설계 및 구현<br>
-    </blockquote>
-    </li>
-    <li>숙제</>
-       <blockquote>
-        클린 코드 8장
-        DDD 패턴으로 bakery 부분 구현
-      </blockquote>
-    </li>
-</ul>
-</details>
+
 
 <details markdown="1">
-<summary>day7: 2021-02-13(토)</summary>
+<summary>day6: 2021-03-13(토)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-7-(2021.-02.-13)">자세히</a>)
-    <blockquote>
-        클린 코드 8. 경계<br>
-        Bakery Domain CRUD 구현<br>
-    </blockquote>
-    </li>
-    <li>숙제</>
-       <blockquote>
-        클린 코드 9장
-        각자 맡은 부분(RESTful, jwt, error handling, JPA) 정리  
-        bakery crud 완벽히 해오기  
-      </blockquote>
-    </li>
-</ul>
-</details>
-
-<details markdown="1">
-<summary>day8: 2021-03-07(일)</summary>
-<ul>
-    <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-8-(2021.-03.-07)">자세히</a>)
-    <blockquote>
-        RESTful, jwt, error handling, JPA 에 관한 발표
-    </blockquote>
-    </li>
-    <li>숙제</>
-       <blockquote>
-        클린 코드 9장(단위 테스트)<br>
-        nest.js 로 hello world! 띄워오기
-      </blockquote>
-    </li>
-</ul>
-</details>
-
-<details markdown="1">
-<summary>day9: 2021-03-13(토)</summary>
-<ul>
-    <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Season-2-Day-9-(2021.-03.-13)">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2---DAY-6">자세히</a>)
     <blockquote>
         1. 클린 코드 9. 단위 테스트<br>
-        2. nest.js 로 "hello world" 띄우기<br>
     </blockquote>
-    </li>
-    <li>숙제</>
-       <blockquote>
-        클린 코드 10장(클래스)<br>
-        nest.js 로 회원가입 기능 만들어오기(공부할 것 : 1. 자스/타스 문법, 2. 패스포트(passport) 3. 네스트 기본 구조 및 동작 원리 (spring과의 차이점)
-      </blockquote>
     </li>
 </ul>
 </details>
