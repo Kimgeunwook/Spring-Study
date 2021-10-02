@@ -32,7 +32,7 @@
 5. 정리 순서: 강인한 -> 최승연 -> 한승엽 -> 김근욱
 ```
 ---
-## 스터디 일지
+## 스터디 일지 (Session 1)  
 <details markdown="1">
 <summary>day0: 2020-08-04(화)</summary>
 <ul>
@@ -88,7 +88,7 @@
 <summary>day2: 2020-08-15(토)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Day-2-(2020-08-15)">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/DAY-2">자세히</a>)
     <blockquote>
         1. spring---DB 환경 설정<br>
         2. MVC 기본구조<br>
@@ -111,7 +111,7 @@
 <summary>day3: 2020-08-23(일)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Day3(2020.08.23)">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/DAY-3">자세히</a>)
     <blockquote>
         기본적인 웹 게시물 관리(chapter 7 ~ chapter 11) <br>
         1. 스프링 MVC 프로젝트의 기본 구성<br>
@@ -127,49 +127,12 @@
 </ul>
 </details>
 
-<details markdown="1">
-<summary>day4: 2020-08-26(수)</summary>
-<ul>
-    <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Day-4-(2020.08.26)">자세히</a>)
-    <blockquote>
-        Database / Mybatis와 Spring에서 페이징 처리 (chapter 12 ~ 13) <br>
-        1. Database에서의 페이징 처리<br>
-        2. Mybatis와 Spring에서의 페이징 처리<br>
-    </blockquote>
-    </li>
-    <li>숙제</>
-       <blockquote>
-        16장, 17장 절반(javascript 전까지) 공부해오기
-      </blockquote>
-    </li>
-</ul>
-</details>
 
 <details markdown="1">
-<summary>day5: xxxxx</summary>
+<summary>day4: 2020-08-26(목)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Day-4-(2020.08.26)">자세히</a>)
-    <blockquote>
-        Database / Mybatis와 Spring에서 페이징 처리 (chapter 12 ~ 13) <br>
-        1. Database에서의 페이징 처리<br>
-        2. Mybatis와 Spring에서의 페이징 처리<br>
-    </blockquote>
-    </li>
-    <li>숙제</>
-       <blockquote>
-        16장, 17장 절반(javascript 전까지) 공부해오기
-      </blockquote>
-    </li>
-</ul>
-</details>
-
-<details markdown="1">
-<summary>day6: 2020-09-03(목)</summary>
-<ul>
-    <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Day-6-(2020.09.03)">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/DAY-4">자세히</a>)
     <blockquote>
         SpringFramework에서 REST 방식 사용하기 <br>
         1. REST와 RESTful<br>
@@ -185,7 +148,7 @@
 </details>
 
 ***
-## Season 2
+## 스터디 일지 (Session 2)  
 
 <details markdown="1">
 <summary>day1: 2020-11-28(토)</summary>
