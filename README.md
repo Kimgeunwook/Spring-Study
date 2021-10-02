@@ -149,7 +149,7 @@
 </details>
 
 ***
-## Season 2
+## 스터디 일지 (Season 2)  
 
 <details markdown="1">
 <summary>day1: 2020-11-28(토)</summary>
