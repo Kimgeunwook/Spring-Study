@@ -169,7 +169,7 @@
 <summary>day2: 2020-12-05(토)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2---DAY-2">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2-DAY-2">자세히</a>)
     <blockquote>
         의미있는 이름 (클린 코드 2장)  <br>
         1. 의미있는 이름<br>
@@ -182,7 +182,7 @@
 <summary>day3: 2020-12-12(토)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2---DAY-3">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2-DAY-3">자세히</a>)
     <blockquote>
         함수 (클린 코드 3장)  <br>
         1. 함수<br>
@@ -195,7 +195,7 @@
 <summary>day4: 2020-12-26(토)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2---DAY-4">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2-DAY-4">자세히</a>)
     <blockquote>
         주석 (클린 코드 4장)  <br>
         1. 주석<br>
@@ -208,7 +208,7 @@
 <summary>day5: 2021-01-09(토)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2---DAY-5">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2-DAY-5">자세히</a>)
     <blockquote>
         형식 맞추기 (클린 코드 5장) / 팀 형식 맞추기  <br>
         1. 형식 맞추기(클린 코드 5장)<br>
@@ -225,7 +225,7 @@
 <summary>day6: 2021-03-13(토)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2---DAY-6">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/Session2-DAY-6">자세히</a>)
     <blockquote>
         1. 클린 코드 9. 단위 테스트<br>
     </blockquote>
