@@ -130,10 +130,10 @@
 
 
 <details markdown="1">
-<summary>day6: 2020-09-03(목)</summary>
+<summary>day4: 2020-09-03(목)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Day-6-(2020.09.03)">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/DAY-4">자세히</a>)
     <blockquote>
         SpringFramework에서 REST 방식 사용하기 <br>
         1. REST와 RESTful<br>
