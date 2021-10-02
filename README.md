@@ -57,7 +57,7 @@
 <summary>day1: 2020-08-08(토)</summary>
 <ul>
     <li>진행 사항</><br>
-    1. 학습 내용 (<a href="https://github.com/enan501/springStudy/wiki/Day-1">자세히</a>)
+    1. 학습 내용 (<a href="https://github.com/Kimgeunwook/Spring-Study/wiki/DAY-1">자세히</a>)
     <blockquote>
         1. 환경 설정<br>
         2. 스프링 개요, 의존성 주입<br>
